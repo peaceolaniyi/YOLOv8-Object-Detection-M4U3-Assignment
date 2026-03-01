@@ -1,7 +1,7 @@
 
 # YOLOv8 PPE Detection – M4U3 Assignment
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+Click Colab Link
 (https://colab.research.google.com/github/peaceolaniyi/YOLOv8-Object-Detection-M4U3-Assignment/blob/main/notebooks/yolov8_object_detection_project_m4u3_group_3.ipynb)
 
 ---
