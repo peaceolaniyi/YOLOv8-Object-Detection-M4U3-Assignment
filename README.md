@@ -1,7 +1,6 @@
 
 # YOLOv8 PPE Detection – M4U3 Assignment
 
-Click Colab Link
 **Inference_Baseline**
 (https://colab.research.google.com/github/peaceolaniyi/YOLOv8-Object-Detection-M4U3-Assignment/blob/main/notebooks/YOLOv8_Object_Detection_PPE_Inference_Baseline_M4U3.ipynb)
 
