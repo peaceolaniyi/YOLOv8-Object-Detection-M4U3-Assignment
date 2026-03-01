@@ -1,1 +1,1 @@
-Contains governance checklist, error analysis, and documentation.
+Contains governance checklist and error analysis.
