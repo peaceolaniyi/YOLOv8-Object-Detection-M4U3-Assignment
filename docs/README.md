@@ -1,1 +1,1 @@
-Contains training and inference notebooks.
+Contains governance checklist, error analysis, and documentation.
